@@ -65,7 +65,7 @@ def getKernel():
         return kernel
     return None
 
-# get upttime
+# get uptime
 def getUptime():
     with open('/proc/uptime', 'r') as f:
         uptime_seconds = float(f.readline().split()[0])
@@ -159,7 +159,7 @@ if __name__ == "__main__":
     f.write(f"\u001b[36;1m {Fore.RED}{getUser()}{Fore.GREEN}@{Fore.YELLOW}{Fore.MAGENTA}{getHost()}{Fore.CYAN}\n")
     f.write(f"\u001b[36;1m ----------\n\n")
 
-    f.write(f"\u001b[36;1m OS {getOS()}\n")
+    f.write(f"\u001b[36;1m OS: {getOS()}\n")
     f.write(f"\u001b[35;1m Host: {getModel()}\n")
     f.write(f"\u001b[34;1m Kernal: {getKernel()}\n")
     f.write(f"\u001b[33;1m Packages: {getPackages()}\n")
