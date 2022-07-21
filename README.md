@@ -4,11 +4,13 @@ A simple system information tool for ubuntu
 ## Screenshots
 Everytime it will randomly show different image from img folder
 
-![src2](https://user-images.githubusercontent.com/68615390/180064365-92b6e48c-40d7-4249-9c35-3375ab548973.png)
+![ss2](https://user-images.githubusercontent.com/68615390/180162058-71aaa538-76b9-4605-98c7-59043e2cfaf1.png)
 
-![scr](https://user-images.githubusercontent.com/68615390/180064375-238ae824-8754-4ef4-9d29-40bfea25b765.png)
+![ss1](https://user-images.githubusercontent.com/68615390/180162077-4c567630-2dc5-4c7b-a110-5bb8c92c1201.png)
 
-![scr1](https://user-images.githubusercontent.com/68615390/180064383-4a0f78b2-b2fa-4215-963f-7b74a2af44a1.png)
+![ss3](https://user-images.githubusercontent.com/68615390/180162087-a8416477-6171-4832-8622-898a65206cad.png)
+
+
 
 
 
