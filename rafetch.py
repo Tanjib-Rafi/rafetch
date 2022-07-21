@@ -161,7 +161,7 @@ if __name__ == "__main__":
 
     f.write(f"\u001b[36;1m OS: {getOS()}\n")
     f.write(f"\u001b[35;1m Host: {getModel()}\n")
-    f.write(f"\u001b[34;1m Kernal: {getKernel()}\n")
+    f.write(f"\u001b[34;1m Kernel: {getKernel()}\n")
     f.write(f"\u001b[33;1m Packages: {getPackages()}\n")
     f.write(f"\u001b[33;1m DE: {getDE()}\n")
     f.write(f"\u001b[32;1m Shell: {getShell()}\n")
